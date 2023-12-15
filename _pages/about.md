@@ -26,4 +26,5 @@ Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Z
 
 <!-- Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations :) -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1BtE30DYyrH1ERE_SPtfdWp_z9FpQahlxKz8HXAOiPc&cl=ffffff&w=a"></script>
