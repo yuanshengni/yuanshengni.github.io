@@ -14,7 +14,7 @@ I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.c
 
 ## News 
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
-- 09/2023: Starting My Exchange program at University of Waterloo!
+- 09/2023: Starting Mathematics Exchange Program at University of Waterloo!
 
 ## Publications
 
