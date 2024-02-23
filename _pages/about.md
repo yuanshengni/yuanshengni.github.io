@@ -13,6 +13,7 @@ redirect_from:
 I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.cn/en/ningyu) at Zhejiang University. Meanwhile, I am a part-time research assitant at [TIGER LAB](https://wenhuchen.github.io/lab.html), advised by [Wenhu Chen](https://wenhuchen.github.io/).
 
 ## News 
+- 01/2024  Release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)!
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
 - 09/2023: Started my Mathematics Exchange Program at University of Waterloo!
 
