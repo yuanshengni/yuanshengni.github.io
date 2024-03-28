@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
+(\*  indicates equal contribution,$\dagger$ indicates first student author.)
 
 ## Preprints
 
