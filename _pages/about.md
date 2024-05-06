@@ -10,7 +10,7 @@ redirect_from:
 ---
 ### About me
 
-I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.cn/en/ningyu) at Zhejiang University. Meanwhile, I am a part-time research assitant at [TIGER LAB](https://wenhuchen.github.io/lab.html), advised by [Wenhu Chen](https://wenhuchen.github.io/).
+I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.cn/en/ningyu) at Zhejiang University. Meanwhile, I am a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html), advised by [Wenhu Chen](https://wenhuchen.github.io/).
 
 ## News 
 - 02/2024: Our [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR’24 as <font color="#df1a7d">Oral (0.78%)</font> !
