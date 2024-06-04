@@ -13,6 +13,7 @@ redirect_from:
 I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.cn/en/ningyu) at Zhejiang University. Meanwhile, I am a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html), advised by [Wenhu Chen](https://wenhuchen.github.io/).
 
 ## News 
+- 06/2024 Released [MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro), a more robust and challenging massive multi-task understanding dataset tailored to more rigorously benchmark large language models' capabilities.
 - 02/2024: Our [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR’24 as <font color="#df1a7d">Oral (0.78%)</font> !
 - 01/2024  Release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)!
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
@@ -24,7 +25,9 @@ Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Z
 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, <u>Yuansheng Ni</u>, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. **A Comprehensive Study of Knowledge Editing for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2401.01286)] [[Code](https://github.com/zjunlp/EasyEdit)] [[Demo](https://huggingface.co/spaces/zjunlp/EasyEdit)]
 
-Peng Wang, Ningyu Zhang, Bozhong Tian, Zekun Xi, Yunzhi Yao, Ziwen Xu, Mengru Wang, Shengyu Mao, Xiaohan Wang, Siyuan Cheng, Kangwei Liu, <u>Yuansheng Ni</u>, Guozhou Zheng, Huajun Chen. **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2308.07269)] [[Code](https://github.com/zjunlp/EasyEdit)]
+Peng Wang, Ningyu Zhang, Bozhong Tian, Zekun Xi, Yunzhi Yao, Ziwen Xu, Mengru Wang, Shengyu Mao, Xiaohan Wang, Siyuan Cheng, Kangwei Liu, <u>Yuansheng Ni</u>, Guozhou Zheng, Huajun Chen. **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**. In ACL'24 SDT [[Paper](https://arxiv.org/abs/2308.07269)] [[Code](https://github.com/zjunlp/EasyEdit)]
+
+Yubo Wang, Xueguang Ma, Ge Zhang, <u>Yuansheng Ni</u>, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen. **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2406.01574)] [[Data](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)]
 
 ## Contact
 
