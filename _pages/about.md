@@ -29,6 +29,8 @@ Peng Wang, Ningyu Zhang, Bozhong Tian, Zekun Xi, Yunzhi Yao, Ziwen Xu, Mengru Wa
 
 Yubo Wang, Xueguang Ma, Ge Zhang, <u>Yuansheng Ni</u>, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen. **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2406.01574)] [[Data](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)]
 
+Dongfu Jiang, Max Ku, Tianle Li, <u>Yuansheng Ni</u>, Shizhuo Sun, Rongqi Fan, Wenhu Chen. **GenAI Arena: An Open Evaluation Platform for Generative Models**. In Arxiv [[Paper](https://arxiv.org/abs/2406.04485)] [[Demo](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
+
 ## Contact
 
 **Email**: `yuansheng.[LAST_NAME]@zju.edu.cn` OR `yuansheng[LAST_NAME]11@gmail.com`

@@ -13,6 +13,7 @@ Yubo Wang, Xueguang Ma, Ge Zhang, <u>Yuansheng Ni</u>, Abhranil Chandra, Shiguan
 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, <u>Yuansheng Ni</u>, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. **A Comprehensive Study of Knowledge Editing for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2401.01286)] [[Code](https://github.com/zjunlp/EasyEdit)] [[Data](https://huggingface.co/datasets/zjunlp/KnowEdit)]
 
+Dongfu Jiang, Max Ku, Tianle Li, <u>Yuansheng Ni</u>, Shizhuo Sun, Rongqi Fan, Wenhu Chen. **GenAI Arena: An Open Evaluation Platform for Generative Models**. In Arxiv [[Paper](https://arxiv.org/abs/2406.04485)] [[Demo](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
 
 ## Publications
 
