@@ -22,7 +22,7 @@ I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.c
 
 ## Selected Publications
 
-See full list in [Publications](https://yuanshengni.github.io/publications)
+See full list in [Publications](https://yuanshengni.github.io/publications).
 
 Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In CVPR’24 (<font color="#df1a7d">Oral (0.78%)</font>) [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
 
