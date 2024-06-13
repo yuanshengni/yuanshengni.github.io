@@ -15,14 +15,14 @@
     font-style: normal;
 } */
 @font-face {
-  font-family: 'Book Antiqua';
+  font-family: 'Book_Antiqua';
   src: url('../fonts/book-antiqua.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+	font:normal normal normal 14px/1 Book_Antiqua;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
