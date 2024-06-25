@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj, Kai Wang, Quy Duc Do, <u>Yuansheng Ni</u>, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen. **VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**. In Arxiv [[Paper](https://arxiv.org/abs/2406.05862)] [[Project Page](https://tiger-ai-lab.github.io/VideoScore/)] [[Demo](https://huggingface.co/spaces/TIGER-Lab/VideoScore)]
+
 Ziqiang Liu, Feiteng Fang, Xi Feng, Xinrun Du, Chenhao Zhang, Zekun Wang, Yuelin Bai, Qixuan Zhao, Liyang Fan, Chengguang Gan, Hongquan Lin, Jiaming Li, <u>Yuansheng Ni</u>, Haihong Wu, Yaswanth Narsupalli, Zhigang Zheng, Chengming Li, Xiping Hu, Ruifeng Xu, Xiaojun Chen, Min Yang, Jiaheng Liu, Ruibo Liu, Wenhao Huang, Ge Zhang, Shiwen Ni. **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2406.05862)] [[Data](https://huggingface.co/datasets/m-a-p/II-Bench)]
 
 Dongfu Jiang, Max Ku, Tianle Li, <u>Yuansheng Ni</u>, Shizhuo Sun, Rongqi Fan, Wenhu Chen. **GenAI Arena: An Open Evaluation Platform for Generative Models**. In Arxiv [[Paper](https://arxiv.org/abs/2406.04485)] [[Demo](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]

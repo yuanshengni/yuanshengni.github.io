@@ -13,6 +13,7 @@ redirect_from:
 I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.cn/en/ningyu) at Zhejiang University. Meanwhile, I am a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html), advised by [Wenhu Chen](https://wenhuchen.github.io/).
 
 ## News 
+- 06/2024 Thrilled to announce 📽️VideoScore, the first-ever fine-grained and reliable evaluator/reward model for text-to-video generation tasks! Check out our [paper](https://arxiv.org/abs/2406.05862) and [demo](https://huggingface.co/spaces/TIGER-Lab/VideoScore) now!
 - 06/2024 Released [II-Bench](https://huggingface.co/datasets/m-a-p/II-Bench), an image implication understanding benchmark for multimodal LLMs.
 - 06/2024 Released [MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro), a more robust and challenging massive multi-task understanding dataset tailored to more rigorously benchmark large language models' capabilities.
 - 02/2024: Our [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR’24 as <font color="#df1a7d">Oral (0.78%)</font> !
