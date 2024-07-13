@@ -10,9 +10,10 @@ redirect_from:
 ---
 ### About me
 
-I am a last-year student advised by Prof. [Ninyu Zhang](https://person.zju.edu.cn/en/ningyu) at Zhejiang University. Meanwhile, I am a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html), advised by [Wenhu Chen](https://wenhuchen.github.io/).
+I am an incoming MS student at the University of Waterloo, advised by [Wenhu Chen](https://wenhuchen.github.io/). Concurrently, I am working as a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html).
 
 ## News 
+- 07/2024 Graduated from Zhejiang University with a Bachelor's degree in Computer Science!🎉
 - 06/2024 Thrilled to announce 📽️VideoScore, the first-ever fine-grained and reliable evaluator/reward model for text-to-video generation tasks! Check out our [paper](https://arxiv.org/abs/2406.05862) and [demo](https://huggingface.co/spaces/TIGER-Lab/VideoScore) now!
 - 06/2024 Released [II-Bench](https://huggingface.co/datasets/m-a-p/II-Bench), an image implication understanding benchmark for multimodal LLMs.
 - 06/2024 Released [MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro), a more robust and challenging massive multi-task understanding dataset tailored to more rigorously benchmark large language models' capabilities.
