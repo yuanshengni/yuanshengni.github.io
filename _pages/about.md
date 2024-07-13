@@ -17,7 +17,7 @@ I am an incoming MS student at the University of Waterloo, advised by [Wenhu Che
 - 06/2024 Thrilled to announce 📽️VideoScore, the first-ever fine-grained and reliable evaluator/reward model for text-to-video generation tasks! Check out our [paper](https://arxiv.org/abs/2406.05862) and [demo](https://huggingface.co/spaces/TIGER-Lab/VideoScore) now!
 - 06/2024 Released [II-Bench](https://huggingface.co/datasets/m-a-p/II-Bench), an image implication understanding benchmark for multimodal LLMs.
 - 06/2024 Released [MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro), a more robust and challenging massive multi-task understanding dataset tailored to more rigorously benchmark large language models' capabilities.
-- 02/2024: Our [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR’24 as <font color="#df1a7d">Oral (0.78%)</font> !
+- 02/2024: Our [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR’24 as <font color="#df1a7d">Best Paper Finalist (0.2%)</font> !
 - 01/2024  Release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)!
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
 - 09/2023: Started my Mathematics Exchange Program at University of Waterloo!
@@ -26,7 +26,7 @@ I am an incoming MS student at the University of Waterloo, advised by [Wenhu Che
 
 See full list in [Publications](https://yuanshengni.github.io/publications).
 
-Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In CVPR’24 (<font color="#df1a7d">Oral (0.78%)</font>) [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
+Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In CVPR’24 (<font color="#df1a7d">Best Paper Finalist (0.2%)</font>) [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
 
 Peng Wang, Ningyu Zhang, Bozhong Tian, Zekun Xi, Yunzhi Yao, Ziwen Xu, Mengru Wang, Shengyu Mao, Xiaohan Wang, Siyuan Cheng, Kangwei Liu, <u>Yuansheng Ni</u>, Guozhou Zheng, Huajun Chen. **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**. In ACL'24 SDT [[Paper](https://arxiv.org/abs/2308.07269)] [[Code](https://github.com/zjunlp/EasyEdit)]
 
