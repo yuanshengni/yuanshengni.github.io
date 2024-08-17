@@ -32,7 +32,7 @@ Peng Wang, Ningyu Zhang, Bozhong Tian, Zekun Xi, Yunzhi Yao, Ziwen Xu, Mengru Wa
 
 ## Contact
 
-**Email**: `yuansheng.[LAST_NAME]@zju.edu.cn` OR `yuansheng[LAST_NAME]11@gmail.com`
+**Email**: `yuansheng.[LAST_NAME]@uwaterloo.ca` OR `yuansheng[LAST_NAME]11@gmail.com`
 
 <!-- Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations :) -->
 
