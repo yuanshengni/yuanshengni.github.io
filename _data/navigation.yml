@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "CV"
-#    url: /files/Yuansheng_CV.pdf
+  - title: "CV"
+    url: /files/Yuansheng_CV.pdf
 
   # - title: "Talks"
   #   url: /talks/    
