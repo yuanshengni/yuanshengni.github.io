@@ -8,6 +8,7 @@ author_profile: true
 (\*  indicates equal contribution,$\dagger$ indicates first student author.)
 
 ## Preprints
+Xiang Yue\*, Tianyu Zheng\*, <u>Yuansheng Ni\*</u>, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig. **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2409.02813)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU_Pro)]
 
 Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj, Kai Wang, Quy Duc Do, <u>Yuansheng Ni</u>, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen. **VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**. In Arxiv [[Paper](https://arxiv.org/abs/2406.05862)] [[Project Page](https://tiger-ai-lab.github.io/VideoScore/)] [[Demo](https://huggingface.co/spaces/TIGER-Lab/VideoScore)]
 
