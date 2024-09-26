@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuansheng Ni's Website"
+title                    : "Yuansheng's Website"
 title_separator          : "-"
 name                     : &name "Yuansheng Ni"
 description              : &description "personal description"
