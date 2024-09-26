@@ -31,6 +31,8 @@ Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Z
 
 Xiang Yue\*, Tianyu Zheng\*, <u>Yuansheng Ni\*</u>, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig. **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2409.02813)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU_Pro)]
 
+Yubo Wang, Xueguang Ma, Ge Zhang, <u>Yuansheng Ni</u>, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen. **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark**. In In NeurIPS'24 D&B (**Spotlight**) [[Paper](https://arxiv.org/abs/2406.01574)] [[Data](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)]
+
 ## Contact
 
 **Email**: `yuansheng.[LAST_NAME]@uwaterloo.ca` OR `yuansheng[LAST_NAME]11@gmail.com`
