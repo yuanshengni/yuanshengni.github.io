@@ -8,6 +8,8 @@ author_profile: true
 (\*  indicates equal contribution,$\dagger$ indicates first student author.)
 
 ## Preprints
+Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, <u>Yuansheng Ni</u>, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen. **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**. In Arxiv [[Paper](https://arxiv.org/abs/2410.10563)] [[Project Page](https://tiger-ai-lab.github.io/MEGA-Bench/)] 
+
 Xiang Yue\*, Tianyu Zheng\*, <u>Yuansheng Ni</u>\*, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig. **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2409.02813)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU_Pro)]
 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, <u>Yuansheng Ni</u>, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. **A Comprehensive Study of Knowledge Editing for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2401.01286)] [[Project Page](https://www.zjukg.org/project/KnowEdit/)] [[Code](https://github.com/zjunlp/EasyEdit)] [[Data](https://huggingface.co/datasets/zjunlp/KnowEdit)]
