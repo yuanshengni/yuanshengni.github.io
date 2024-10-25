@@ -13,7 +13,7 @@ redirect_from:
 I am an MS student at the University of Waterloo, advised by [Wenhu Chen](https://wenhuchen.github.io/). Concurrently, I am working as a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html).
 
 ## News 
-- 10/2024: Introduce [MEGA-Bench](https://tiger-ai-lab.github.io/MEGA-Bench/), an evaluation suite that scales multimodal evaluation to over 500 real-world tasks!
+- 10/2024: Introducing [MEGA-Bench](https://tiger-ai-lab.github.io/MEGA-Bench/), an evaluation suite that scales multimodal evaluation to over 500 real-world tasks!
 - 09/2024: Released [MMMU Pro](https://huggingface.co/datasets/MMMU/MMMU_Pro): A More Robust Multi-discipline Multimodal Understanding Benchmark.
 - 07/2024: Graduated from Zhejiang University with a Bachelor's degree in Computer Science!🎉
 - 06/2024: Thrilled to announce 📽️VideoScore, the first-ever fine-grained and reliable evaluator/reward model for text-to-video generation tasks! Check out our [paper](https://arxiv.org/abs/2406.05862) and [demo](https://huggingface.co/spaces/TIGER-Lab/VideoScore) now!
