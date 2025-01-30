@@ -8,13 +8,15 @@ author_profile: true
 (\*  indicates equal contribution,$\dagger$ indicates first student author.)
 
 ## Preprints
-Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, <u>Yuansheng Ni</u>, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen. **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**. In Arxiv [[Paper](https://arxiv.org/abs/2410.10563)] [[Project Page](https://tiger-ai-lab.github.io/MEGA-Bench/)] [[Code](https://github.com/TIGER-AI-Lab/MEGA-Bench)] [[Data](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench)]
 
 Xiang Yue\*, Tianyu Zheng\*, <u>Yuansheng Ni</u>\*, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig. **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2409.02813)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU_Pro)]
 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, <u>Yuansheng Ni</u>, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. **A Comprehensive Study of Knowledge Editing for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2401.01286)] [[Project Page](https://www.zjukg.org/project/KnowEdit/)] [[Code](https://github.com/zjunlp/EasyEdit)] [[Data](https://huggingface.co/datasets/zjunlp/KnowEdit)]
 
 ## Publications
+
+### 2025
+Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, <u>Yuansheng Ni</u>, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen. **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**. In ICLR'25 [[Paper](https://arxiv.org/abs/2410.10563)] [[Project Page](https://tiger-ai-lab.github.io/MEGA-Bench/)] [[Code](https://github.com/TIGER-AI-Lab/MEGA-Bench)] [[Data](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench)]
 
 ### 2024
 Ziqiang Liu, Feiteng Fang, Xi Feng, Xinrun Du, Chenhao Zhang, Zekun Wang, Yuelin Bai, Qixuan Zhao, Liyang Fan, Chengguang Gan, Hongquan Lin, Jiaming Li, <u>Yuansheng Ni</u>, Haihong Wu, Yaswanth Narsupalli, Zhigang Zheng, Chengming Li, Xiping Hu, Ruifeng Xu, Xiaojun Chen, Min Yang, Jiaheng Liu, Ruibo Liu, Wenhao Huang, Ge Zhang, Shiwen Ni. **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**. In In NeurIPS'24 D&B [[Paper](https://arxiv.org/abs/2406.05862)] [[Data](https://huggingface.co/datasets/m-a-p/II-Bench)]
