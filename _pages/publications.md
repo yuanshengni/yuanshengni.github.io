@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+M-A-P Team. **SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**. In Arxiv [[Paper](https://arxiv.org/abs/2502.14739)] [[Project Page](https://arxiv.org/abs/2502.14739)] [[Code](https://github.com/SuperGPQA/SuperGPQA)] [[Data](https://huggingface.co/datasets/m-a-p/SuperGPQA)]
+
 Xiang Yue\*, Tianyu Zheng\*, <u>Yuansheng Ni</u>\*, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig. **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2409.02813)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU_Pro)]
 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, <u>Yuansheng Ni</u>, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. **A Comprehensive Study of Knowledge Editing for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2401.01286)] [[Project Page](https://www.zjukg.org/project/KnowEdit/)] [[Code](https://github.com/zjunlp/EasyEdit)] [[Data](https://huggingface.co/datasets/zjunlp/KnowEdit)]

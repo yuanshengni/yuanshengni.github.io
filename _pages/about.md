@@ -13,6 +13,7 @@ redirect_from:
 I am an MS student at the University of Waterloo, advised by [Wenhu Chen](https://wenhuchen.github.io/). Concurrently, I am working as a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html).
 
 ## News 
+- 02/2025: Released [SuperGPQA](https://supergpqa.github.io/), a comprehensive benchmark designed to evaluate the knowledge and reasoning abilities of Large Language Models (LLMs) across 285 graduate-level disciplines.
 - 10/2024: Introducing [MEGA-Bench](https://tiger-ai-lab.github.io/MEGA-Bench/), an evaluation suite that scales multimodal evaluation to over 500 real-world tasks!
 - 09/2024: Released [MMMU Pro](https://huggingface.co/datasets/MMMU/MMMU_Pro): A More Robust Multi-discipline Multimodal Understanding Benchmark.
 - 07/2024: Graduated from Zhejiang University with a Bachelor's degree in Computer Science!🎉
