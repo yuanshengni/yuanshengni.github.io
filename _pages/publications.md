@@ -8,6 +8,9 @@ author_profile: true
 (\*  indicates equal contribution,$\dagger$ indicates first student author.)
 
 ## Preprints
+<u>Yuansheng Ni</u>, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen. **VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation**. In Arxiv [[Paper](https://arxiv.org/abs/2506.03930)] [[Project Page](https://tiger-ai-lab.github.io/VisCoder/)] [[Code](https://github.com/TIGER-AI-Lab/VisCoder)] [[Data](https://huggingface.co/datasets/TIGER-Lab/VisCode-200K)] [[Model](https://huggingface.co/TIGER-Lab/VisCoder-7B)]
+
+Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, <u>Yuansheng Ni</u>, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong. **PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**. In Arxiv [[Paper](https://arxiv.org/abs/2505.15929)] [[Project Page](https://phyx-bench.github.io/)] [[Code](https://github.com/NastyMarcus/PhyX)] [[Data](https://huggingface.co/datasets/Cloudriver/PhyX)]
 
 M-A-P Team. **SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**. In Arxiv [[Paper](https://arxiv.org/abs/2502.14739)] [[Project Page](https://arxiv.org/abs/2502.14739)] [[Code](https://github.com/SuperGPQA/SuperGPQA)] [[Data](https://huggingface.co/datasets/m-a-p/SuperGPQA)]
 
