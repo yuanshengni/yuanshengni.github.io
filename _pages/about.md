@@ -13,7 +13,8 @@ redirect_from:
 I am an MS student at the University of Waterloo, advised by [Wenhu Chen](https://wenhuchen.github.io/). Concurrently, I am working as a part-time research assistant at [TIGER LAB](https://wenhuchen.github.io/lab.html).
 
 ## News 
-- 06/2025: Released [VisCoder](https://tiger-ai-lab.github.io/VisCoder/), an open-source large language model fine-tuned for Python visualization code generation and iterative self-correction. Check out our [paper](https://arxiv.org/abs/2506.03930) and [huggingface collections](https://huggingface.co/collections/TIGER-Lab/viscoder-6840333efe87c4888bc93046)!
+- 10/2025: Released [VisCoder2](https://tiger-ai-lab.github.io/VisCoder2/): building multi-language visualization coding agents. Check out our [paper](https://arxiv.org/abs/2510.23642) and [huggingface collections](https://hf.co/collections/TIGER-Lab/viscoder2)!
+- 06/2025: Released [VisCoder](https://tiger-ai-lab.github.io/VisCoder/), an open-source large language model fine-tuned for Python visualization code generation and iterative self-correction. Check out our [paper](https://arxiv.org/abs/2506.03930) and [huggingface collections](https://hf.co/collections/TIGER-Lab/viscoder)!
 - 05/2025: Released [PhyX](https://phyx-bench.github.io/), first large-scale benchmark designed to assess models capacity for physics-grounded reasoning in visual scenarios.
 - 02/2025: Released [SuperGPQA](https://supergpqa.github.io/), a comprehensive benchmark designed to evaluate the knowledge and reasoning abilities of Large Language Models (LLMs) across 285 graduate-level disciplines.
 - 10/2024: Introducing [MEGA-Bench](https://tiger-ai-lab.github.io/MEGA-Bench/), an evaluation suite that scales multimodal evaluation to over 500 real-world tasks!

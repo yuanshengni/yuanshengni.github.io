@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+<u>Yuansheng Ni</u>\*, Songcheng Cai\*, Xiangchao Chen\*, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen. **VisCoder2: Building Multi-Language Visualization Coding Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2510.23642)] [[Project Page](https://tiger-ai-lab.github.io/VisCoder2/)] [[Code](https://github.com/TIGER-AI-Lab/VisCoder2)] [[HF](https://hf.co/collections/TIGER-Lab/viscoder2)]
+
 Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, <u>Yuansheng Ni</u>, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong. **PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**. In Arxiv [[Paper](https://arxiv.org/abs/2505.15929)] [[Project Page](https://phyx-bench.github.io/)] [[Code](https://github.com/NastyMarcus/PhyX)] [[Data](https://huggingface.co/datasets/Cloudriver/PhyX)]
 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, <u>Yuansheng Ni</u>, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen. **A Comprehensive Study of Knowledge Editing for Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2401.01286)] [[Project Page](https://www.zjukg.org/project/KnowEdit/)] [[Code](https://github.com/zjunlp/EasyEdit)] [[Data](https://huggingface.co/datasets/zjunlp/KnowEdit)]
