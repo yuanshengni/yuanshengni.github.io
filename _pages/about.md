@@ -36,7 +36,9 @@ Xiang Yue\*, <u>Yuansheng Ni</u>\*, Kai Zhang\*, Tianyu Zheng\*, Ruoqi Liu, Ge Z
 
 Xiang Yue\*, Tianyu Zheng\*, <u>Yuansheng Ni</u>\*, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig. **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**. In Arxiv [[Paper](https://arxiv.org/abs/2409.02813)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU_Pro)]
 
-Yubo Wang, Xueguang Ma, Ge Zhang, <u>Yuansheng Ni</u>, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen. **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark**. In In NeurIPS'24 D&B <font color="#df1a7d">Spotlight</font> [[Paper](https://arxiv.org/abs/2406.01574)] [[Data](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)]
+<u>Yuansheng Ni</u>, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen. **VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation**. In EMNLP'25 Findings [[Paper](https://arxiv.org/abs/2506.03930)] [[Project Page](https://tiger-ai-lab.github.io/VisCoder/)] [[Code](https://github.com/TIGER-AI-Lab/VisCoder)] [[Data](https://huggingface.co/datasets/TIGER-Lab/VisCode-200K)] [[Model](https://huggingface.co/TIGER-Lab/VisCoder-7B)]
+
+<u>Yuansheng Ni</u>\*, Songcheng Cai\*, Xiangchao Chen\*, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen. **VisCoder2: Building Multi-Language Visualization Coding Agents**. In ICLR'26 [[Paper](https://arxiv.org/abs/2510.23642)] [[Project Page](https://tiger-ai-lab.github.io/VisCoder2/)] [[Code](https://github.com/TIGER-AI-Lab/VisCoder2)] [[HF](https://hf.co/collections/TIGER-Lab/viscoder2)]
 
 ## Contact
 
