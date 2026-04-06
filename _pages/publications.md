@@ -17,6 +17,8 @@ Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zek
 
 ### 2026
 
+Songcheng Cai, Zhiheng Lyu, <u>Yuansheng Ni</u>, Xiangchao Chen, Baichuan Zhou, Shenzhe Zhu, Yi Lu, Haozhe Wang, Chi Ruan, Benjamin Schneider, Weixu Zhang, Xiang Li, Andy Zheng, Yuyu Zhang, Ping Nie, Wenhu Chen. **SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding**. In ICLR'26 [[Paper](https://arxiv.org/abs/2603.16124)]
+
 <u>Yuansheng Ni</u>\*, Songcheng Cai\*, Xiangchao Chen\*, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen. **VisCoder2: Building Multi-Language Visualization Coding Agents**. In ICLR'26 [[Paper](https://arxiv.org/abs/2510.23642)] [[Project Page](https://tiger-ai-lab.github.io/VisCoder2/)] [[Code](https://github.com/TIGER-AI-Lab/VisCoder2)] [[HF](https://hf.co/collections/TIGER-Lab/viscoder2)]
 
 ### 2025
